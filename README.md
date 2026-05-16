@@ -60,4 +60,4 @@ zip -r ../scihub-fetch.xpi *
 
 ## License
 
-MIT
+GPL-3.0
