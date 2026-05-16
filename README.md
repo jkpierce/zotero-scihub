@@ -2,7 +2,7 @@
 
 Download all missing articles in your Zotero from Sci-Hub
 
-> Vibe coded from DeepSeek with inspiration from [zotero-scihub](https://github.com/ethanwillis/zotero-scihub)
+Inspired by [zotero-scihub](https://github.com/ethanwillis/zotero-scihub)
 
 A Zotero 9 plugin that scans all your citations, finds items without file attachments, and downloads PDFs from Sci-Hub using their DOIs.
 
