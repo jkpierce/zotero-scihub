@@ -3,7 +3,8 @@
   "name": "Sci-Hub Fetch",
   "version": "1.0.0",
   "description": "Scan all citations, find ones without file attachments, and download PDFs from Sci-Hub using their DOIs.",
-  "author": "Sci-Hub Fetch",
+  "author": "jkpierce",
+  "homepage_url": "https://github.com/jkpierce/zotero-scihub",
   "icons": {
     "48": "content/skin/icon.svg",
     "96": "content/skin/icon.svg"
@@ -11,7 +12,7 @@
   "applications": {
     "zotero": {
       "id": "scihub-fetch@example.com",
-      "update_url": "https://github.com/your-username/scihub-fetch/releases/download/release/updates.json",
+      "update_url": "https://github.com/jkpierce/zotero-scihub/releases/download/release/updates.json",
       "strict_min_version": "8.0.0",
       "strict_max_version": "9.*"
     }
