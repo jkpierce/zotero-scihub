@@ -20,9 +20,8 @@ A Zotero 9 plugin that scans all your citations, finds items without file attach
 
 1. Download [`scihub-fetch-1.0.0.xpi`](scihub-fetch-1.0.0.xpi) from the repo root
 2. Open Zotero -> **Tools -> Add-ons**
-3. Click the gear icon -> **Install Add-on From File...**
-4. Select the `.xpi` file
-5. Restart Zotero
+3. Drag and drop the `.xpi` file into the Add-ons window
+4. Restart Zotero
 
 ## Usage
 
