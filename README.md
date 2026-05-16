@@ -4,6 +4,8 @@ Download all missing articles in your Zotero from Sci-Hub
 
 Inspired by [zotero-scihub](https://github.com/ethanwillis/zotero-scihub), which has become incompatible with Zotero 9.
 
+Tested on Zotero 9.0.1 (64-bit) on Ubuntu 25.10.
+
 A Zotero 9 plugin that scans all your citations, finds items without file attachments, and downloads PDFs from Sci-Hub using their DOIs.
 
 ## Features
