@@ -44,7 +44,7 @@ After installation, you'll find Sci-Hub Fetch in several places:
 
 After downloading, some items may have duplicate attachments. Run **File -> Sci-Hub Fetch -> Remove Duplicate File Attachments** to clean them up (only Zotero entries are removed - files on disk are preserved).
 
-## How It Works
+## What It Does
 
 1. Scans all items across all libraries
 2. Extracts DOIs from the DOI field, Extra field (DOI: ...), or URL (doi.org)
