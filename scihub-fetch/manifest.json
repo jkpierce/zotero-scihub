@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Sci-Hub Fetch",
+  "version": "1.0.0",
+  "description": "Scan all citations, find ones without file attachments, and download PDFs from Sci-Hub using their DOIs.",
+  "author": "Sci-Hub Fetch",
+  "icons": {
+    "48": "content/skin/icon.svg",
+    "96": "content/skin/icon.svg"
+  },
+  "applications": {
+    "zotero": {
+      "id": "scihub-fetch@example.com",
+      "update_url": "https://github.com/your-username/scihub-fetch/releases/download/release/updates.json",
+      "strict_min_version": "8.0.0",
+      "strict_max_version": "9.*"
+    }
+  }
+}
